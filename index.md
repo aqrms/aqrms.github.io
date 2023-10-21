@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# [Just the Docs] theme을 적용한. [Jekyll] 사이트 입니다.
+### [Just the Docs] theme을 적용한 [Jekyll] 사이트 입니다.
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [Jekyll]: https://jekyllrb.com
