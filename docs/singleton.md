@@ -1,5 +1,5 @@
 ---
-layout: defalut
+layout: home
 title: Menu2
 nav_order: 2
 ---
